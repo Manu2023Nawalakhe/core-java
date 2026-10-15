@@ -7,7 +7,7 @@ public class Main {
 
         int counter = 0;
 //        for(int i = 0; counter<3 && i<=50;i++)// without break statements
-        
+
         for(int i = 0; i<50;i++){
             isPrime(i);
             System.out.println("number " + i + " is a prime number");
